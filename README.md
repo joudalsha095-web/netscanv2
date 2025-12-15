@@ -1,1 +1,1 @@
-# netscanv2
+# netscan
